@@ -133,14 +133,13 @@ Step 5: Provide recommendations.
 "Hospitals can utilize AI to monitor patient vitals in real-time, deploy AI chatbots for patient support, and use predictive analytics to prevent complications. Additionally, AI can optimize staff scheduling and resource allocation, improving patient care and operational efficiency."
 
 <h3>Evaluation Table (Quality, Accuracy, Depth: 1–5 scale)</h3>
-| Scenario               | Prompt Type            | Quality | Accuracy | Depth |
-| ---------------------- | ---------------------- | ------- | -------- | ----- |
-| Creative Story         | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
-| Factual Question       | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
-| Summarizing Article    | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
-| Advice/Recommendations | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
+| Scenario | Prompt Type | Quality | Accuracy | Depth | Creative Story |
+|----------|------------|--------|---------|-------|----------------|
+| Zero-shot/Few-shot/CoT | 5 | 5 | 5 | 5 | Refined prompts (Few-shot and Chain-of-Thought) consistently produced high-quality, accurate, and in-depth responses. |
+| Factual Question | Zero-shot/Few-shot/CoT | 5 | 5 | 5 | Summarizing Article |
+| Advice/Recommendations | Zero-shot/Few-shot/CoT | 5 | 5 | 5 | - <|
 
-
+<h3>Analysis</h3>
 
 Refined prompts (Few-shot and Chain-of-Thought) consistently produced high-quality, accurate, and in-depth responses.
 
