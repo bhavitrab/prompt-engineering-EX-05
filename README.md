@@ -133,7 +133,6 @@ Step 5: Provide recommendations.
 "Hospitals can utilize AI to monitor patient vitals in real-time, deploy AI chatbots for patient support, and use predictive analytics to prevent complications. Additionally, AI can optimize staff scheduling and resource allocation, improving patient care and operational efficiency."
 
 <h3>Evaluation Table (Quality, Accuracy, Depth: 1–5 scale)</h3>
-# Evaluation Table (Quality, Accuracy, Depth: 1–5 scale)
 
 | Scenario                 | Prompt Type             | Quality | Accuracy | Depth |
 |--------------------------|-----------------------|--------|---------|-------|
