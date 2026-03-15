@@ -140,7 +140,7 @@ Step 5: Provide recommendations.
 | Summarizing Article    | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
 | Advice/Recommendations | Zero-shot/Few-shot/CoT | 5       | 5        | 5     |
 
-<h3>Analysis</h3>
+
 
 Refined prompts (Few-shot and Chain-of-Thought) consistently produced high-quality, accurate, and in-depth responses.
 
